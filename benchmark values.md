@@ -1,0 +1,4 @@
+Smoking Proportion Benchmark (p0): 0.50 
+Rationale:Used to test if the proportion of students who ever smoked follows a 50/50 distribution.
+Mean Height Benchmark (μ0): 1.70 m
+Rationale:Set at 1.70 meters as a reference point for average adolescent height to observe if the sample significantly deviates from this standard.
